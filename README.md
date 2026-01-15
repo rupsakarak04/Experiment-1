@@ -23,7 +23,7 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 
            Declare numeric variables.
            Perform arithmetic operations such as addition, subtraction, multiplication,division, and exponentiation.
-            Store the results in variables and display the output.
+           Store the results in variables and display the output.
 
 *Program 4: User Input and Arithmetic Operations*
 
