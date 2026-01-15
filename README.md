@@ -3,6 +3,7 @@
 ##*AIM*: **To understand the Basics of Python Programming and write simple programs** 
 
 *THEORY*:
+
 Python is a high-level, interpreted, and object-oriented programming language known for its simplicity and readability. It allows programmers to write clear and logical code for both small and large applications. Python supports various data types such as integers, floating-point numbers, strings, and booleans, which are used to store and manipulate data efficiently. Multiple assignment allows assigning values to multiple variables in a single line. The type() function is used to determine the data type of a variable. Arithmetic operators such as addition (+), subtraction (-), multiplication (), division (/), and exponentiation (*) perform mathematical calculations. The input() function is used to accept user input, which is typecast into required data types. The math library provides mathematical constants and functions such as pi and log10(). Conditional statements (if-else) help in decision-making by comparing values and executing appropriate code blocks.
 
 *ALGORITHM*:
@@ -47,4 +48,5 @@ Python is a high-level, interpreted, and object-oriented programming language kn
             Display which number is greater or if both numbers are equal.
 
 *CONCLUSION:*
+
 This experiment successfully introduced the fundamental concepts of Python programming. Through this experiment, the use of variables, data types, arithmetic operations, user input handling, mathematical functions, and conditional statements was understood and implemented effectively. The practical implementation of these concepts provided a strong foundation in Python programming and enhanced logical thinking skills, which are essential for developing more complex programs in future applications.
