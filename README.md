@@ -9,20 +9,24 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 *ALGORITHM*:
 
 *Program 1: Variable Declaration and Printing*
+
         Declare string variables and assign values to them.
         Assign multiple values to multiple variables using a single statement.
         Display the values of variables using the print() function with appropriate separators.
 
 *Program 2: Data Types*
+
         Declare variables of different data types such as integer, float, string, and boolean.
         Use the type() function to identify and display the data type of each variable.
 
 *Program 3: Mathematical Operations*
+
            Declare numeric variables.
            Perform arithmetic operations such as addition, subtraction, multiplication,division, and exponentiation.
             Store the results in variables and display the output.
 
 *Program 4: User Input and Arithmetic Operations*
+
            Accept two integer values from the user using the input() function.
            Convert the input values into integers.
            Display the entered values.
@@ -30,6 +34,7 @@ Python is a high-level, interpreted, and object-oriented programming language kn
            Display the results.
 
 *Program 5: Area of a Circle*
+
            Import the math module.
            Accept the radius of the circle from the user.
            Calculate the area using the formula:
@@ -37,12 +42,14 @@ Python is a high-level, interpreted, and object-oriented programming language kn
            Display the calculated area of the circle.
 
 *Program 6: Logarithmic Calculation*
+
             Import the math module.
             Accept a number from the user.
             Calculate the base-10 logarithm of the number using math.log10().
             Display the logarithmic value.
 
 *Program 7: Comparison Using Conditional Statements*
+
             Accept two numbers from the user.
             Compare the two numbers using an if-else statement.
             Display which number is greater or if both numbers are equal.
